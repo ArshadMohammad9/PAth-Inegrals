@@ -1,1 +1,1 @@
-# PAth-Inegrals
+# Path-Inegrals
